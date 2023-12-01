@@ -25,3 +25,5 @@ OK, you had run Calc
 
 
 Is is my homework for the book of Making programing language by yourself written by [前桥和弥（Japanese）](http://kmaebashi.com).
+## Screenshot
+![running](./img/running.png)

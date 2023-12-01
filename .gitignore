@@ -54,3 +54,10 @@ dkms.conf
 
 # hiden files
 .*
+
+# middle files
+lex.yy.c
+mycalc
+*.output
+y.tab.c
+y.tab.h
